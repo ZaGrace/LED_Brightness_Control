@@ -51,7 +51,7 @@ In this project, an LED's brightness is adjusted using a potentiometer, and the 
 ---
 
 ## Circuit Diagram
-[Include an image of your circuit diagram here or a Fritzing diagram.]
+<img width="494" alt="LED_Brightness_Controller_Diagram" src="https://github.com/user-attachments/assets/877604ba-5603-4dd8-b16d-f9492df4a3fe" />
 
 ### Pin Connections
 | Component       | Arduino Pin   |
